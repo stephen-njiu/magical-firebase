@@ -22,7 +22,7 @@ import { getFirestore,
 
 /* === Firebase Setup === */
 const firebaseConfig = {
-    apiKey: "AIzaSyAKgFTZSv4yxmaLFLrvOVek4Rhs6Bj641Y",
+    apiKey: "",
     authDomain: "croad-912f8.firebaseapp.com",
     projectId: "croad-912f8",
     storageBucket: "croad-912f8.firebasestorage.app",
