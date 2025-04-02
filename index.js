@@ -26,8 +26,7 @@ const firebaseConfig = {
     authDomain: "croad-912f8.firebaseapp.com",
     projectId: "croad-912f8",
     storageBucket: "croad-912f8.firebasestorage.app",
-    messagingSenderId: "738127197367",
-    appId: "1:738127197367:web:0a010ce511c030ea254932"
+
   };
 
 const app = initializeApp(firebaseConfig)
